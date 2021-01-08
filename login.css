@@ -1,0 +1,40 @@
+body{
+	background-image: url(login.jpg);
+}
+h1{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+}
+ input[type="text"],
+ input[type="password"] {
+	display: block;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #fff;
+    height: 27px;
+    line-height: 27px;
+    width: 30%;
+    margin-left: 475px;
+}
+label {
+	color: red;
+    font-size: 25px;
+    margin-top: 15px;
+    display: block;
+    margin-left: 475px;
+}
+input[type="submit"]
+{
+	background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 250px;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin: 30px auto;
+    height: 41px;
+    width: 30%;
+    cursor: pointer;
+}

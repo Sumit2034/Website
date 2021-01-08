@@ -1,0 +1,61 @@
+body{
+	    background-image: url(bg.jpg);
+}
+#div1{
+	text-align: center;
+}
+h1
+{
+	margin-left: 50px;
+    font-family: fantasy;
+    color: greenyellow;
+    font-size: 60px;
+}
+h2
+{
+	margin-left: 50px;
+	  color: #fff;
+}
+li
+{
+	font-size: 20px;
+    list-style-type: none;
+    padding: 5px 30px;
+    background: url(checkmark.png) no-repeat 0 0;
+    color: #fff;
+}
+#formstyle
+{
+	text-align: center;
+	font-size: 30px;
+	 color: coral
+}
+input[type="text"] {
+	margin-left: 475px;
+	display: block;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #fff;
+    height: 27px;
+    line-height: 27px;
+    width: 30%;
+}
+input[type="submit"]
+{
+	background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 250px;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin: 20px auto;
+    height: 41px;
+    width: 20%;
+    cursor: pointer;
+}
+
+
+
+
+
